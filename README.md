@@ -8,17 +8,13 @@ I'm a Front-End Developer specializing in creating responsive and interactive we
 - **Frameworks:** React, 
 - **Tools:** Git, Webpack, Figma , github , 
 
-## 🌟 Featured Projects
-- **[Project Name](link):** A brief description of what the project does and the technologies used.
-- **[Another Project](link):** Overview of features and your contributions.
+
 
 ## 📈 GitHub Stats
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ## 📫 Connect with Me
-- **Twitter:** [@YourHandle](link)
-- **LinkedIn:** [Your LinkedIn](link)
-- **Email:** [Your Email](mailto:you@example.com)
+- **Email:** puneetmalhotra7@proton.me
 
 ## 🎨 Fun Fact
 I love designing UI/UX and exploring new front-end technologies!
